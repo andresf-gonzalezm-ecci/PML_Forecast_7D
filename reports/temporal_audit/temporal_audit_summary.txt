@@ -1,0 +1,44 @@
+========================================================================
+RESUMEN DE AUDITORÍA TEMPORAL
+========================================================================
+Nodo: 01AAN-85
+Archivo: C:\Users\ingfe\Downloads\PML_Forecast_7D\reports\target_node_01AAN-85.csv
+Registros originales: 16,056
+Registros válidos: 16,056
+Registros con fecha inválida: 0
+Registros con PML inválido: 0
+Fecha inicial: 2025-01-01 00:00:00
+Fecha final: 2026-10-31 23:00:00
+Horas esperadas en el intervalo: 16,056
+Marcas temporales únicas observadas: 16,056
+Horas faltantes: 0
+Marcas temporales duplicadas: 0
+Filas duplicadas exactas: 0
+Marcas fuera de la hora exacta: 0
+Intervalos distintos de una hora: 0
+Cobertura temporal: 100.0000%
+Continuidad horaria estricta: SÍ
+
+Disponibilidad de rezagos:
+ lag_horas  pares_temporales_disponibles  objetivos_evaluables  cobertura_pct
+         1                         16055                 16056      99.993772
+         2                         16054                 16056      99.987544
+         3                         16053                 16056      99.981315
+         6                         16050                 16056      99.962631
+        12                         16044                 16056      99.925262
+        24                         16032                 16056      99.850523
+        48                         16008                 16056      99.701046
+        72                         15984                 16056      99.551570
+       168                         15888                 16056      98.953662
+
+Archivos generados:
+- invalid_records.csv
+- timestamps_off_hour.csv
+- duplicate_timestamps.csv
+- missing_hours.csv
+- irregular_intervals.csv
+- lag_availability.csv
+- monthly_coverage.csv
+- temporal_audit_summary.txt
+
+Directorio de salida: C:\Users\ingfe\Downloads\PML_Forecast_7D\reports\temporal_audit

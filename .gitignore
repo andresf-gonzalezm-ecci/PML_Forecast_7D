@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+.venv*/
+venv/
+env/
+
+# Datos originales y derivados
+data/
+*.sqlite
+*.db
+reports/target_node_*.csv
+reports/modeling_dataset/*.npz
+reports/modeling_dataset/*.npy
+
+# Modelos entrenados y artefactos pesados
+models/*
+reports/**/models/
+reports/*predictions*.csv
+reports/**/*predictions*.csv
+
+# Sistema operativo / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secretos y configuración local
+.env
+.env.*
+!.env.example
+
+# Archivos comprimidos de reportes (contenido duplicado)
+reports/**/*.zip
+
+# Dataset derivado del nodo objetivo
+reports/target_node_01AAN-85.csv
+
+# Archivos intermedios de modelado
+reports/modeling_dataset/
+reports/rbf/models/
+reports/xgboost/models/
+
+# Auditoria temporal: archivos vacios cuando no hay errores
+reports/temporal_audit/duplicate_timestamps.csv
+reports/temporal_audit/invalid_records.csv
+reports/temporal_audit/irregular_intervals.csv
+reports/temporal_audit/missing_hours.csv
+reports/temporal_audit/timestamps_off_hour.csv

@@ -1,0 +1,169 @@
+﻿split,block,metric,model,model_name,horizons_won
+validation,Día 1,mae,naive_week,Naive semanal,0
+validation,Día 1,mae,naive_persistence,Persistencia,8
+validation,Día 1,mae,xgboost,XGBoost,16
+validation,Día 1,mae,rbf,RBF,0
+validation,Día 1,rmse,naive_week,Naive semanal,0
+validation,Día 1,rmse,naive_persistence,Persistencia,0
+validation,Día 1,rmse,xgboost,XGBoost,24
+validation,Día 1,rmse,rbf,RBF,0
+validation,Día 1,smape_pct,naive_week,Naive semanal,0
+validation,Día 1,smape_pct,naive_persistence,Persistencia,24
+validation,Día 1,smape_pct,xgboost,XGBoost,0
+validation,Día 1,smape_pct,rbf,RBF,0
+validation,Día 2,mae,naive_week,Naive semanal,11
+validation,Día 2,mae,naive_persistence,Persistencia,13
+validation,Día 2,mae,xgboost,XGBoost,0
+validation,Día 2,mae,rbf,RBF,0
+validation,Día 2,rmse,naive_week,Naive semanal,0
+validation,Día 2,rmse,naive_persistence,Persistencia,0
+validation,Día 2,rmse,xgboost,XGBoost,20
+validation,Día 2,rmse,rbf,RBF,4
+validation,Día 2,smape_pct,naive_week,Naive semanal,0
+validation,Día 2,smape_pct,naive_persistence,Persistencia,24
+validation,Día 2,smape_pct,xgboost,XGBoost,0
+validation,Día 2,smape_pct,rbf,RBF,0
+validation,Día 3,mae,naive_week,Naive semanal,16
+validation,Día 3,mae,naive_persistence,Persistencia,8
+validation,Día 3,mae,xgboost,XGBoost,0
+validation,Día 3,mae,rbf,RBF,0
+validation,Día 3,rmse,naive_week,Naive semanal,0
+validation,Día 3,rmse,naive_persistence,Persistencia,0
+validation,Día 3,rmse,xgboost,XGBoost,23
+validation,Día 3,rmse,rbf,RBF,1
+validation,Día 3,smape_pct,naive_week,Naive semanal,11
+validation,Día 3,smape_pct,naive_persistence,Persistencia,13
+validation,Día 3,smape_pct,xgboost,XGBoost,0
+validation,Día 3,smape_pct,rbf,RBF,0
+validation,Día 4,mae,naive_week,Naive semanal,22
+validation,Día 4,mae,naive_persistence,Persistencia,2
+validation,Día 4,mae,xgboost,XGBoost,0
+validation,Día 4,mae,rbf,RBF,0
+validation,Día 4,rmse,naive_week,Naive semanal,0
+validation,Día 4,rmse,naive_persistence,Persistencia,0
+validation,Día 4,rmse,xgboost,XGBoost,24
+validation,Día 4,rmse,rbf,RBF,0
+validation,Día 4,smape_pct,naive_week,Naive semanal,21
+validation,Día 4,smape_pct,naive_persistence,Persistencia,3
+validation,Día 4,smape_pct,xgboost,XGBoost,0
+validation,Día 4,smape_pct,rbf,RBF,0
+validation,Día 5,mae,naive_week,Naive semanal,24
+validation,Día 5,mae,naive_persistence,Persistencia,0
+validation,Día 5,mae,xgboost,XGBoost,0
+validation,Día 5,mae,rbf,RBF,0
+validation,Día 5,rmse,naive_week,Naive semanal,0
+validation,Día 5,rmse,naive_persistence,Persistencia,0
+validation,Día 5,rmse,xgboost,XGBoost,24
+validation,Día 5,rmse,rbf,RBF,0
+validation,Día 5,smape_pct,naive_week,Naive semanal,24
+validation,Día 5,smape_pct,naive_persistence,Persistencia,0
+validation,Día 5,smape_pct,xgboost,XGBoost,0
+validation,Día 5,smape_pct,rbf,RBF,0
+validation,Día 6,mae,naive_week,Naive semanal,23
+validation,Día 6,mae,naive_persistence,Persistencia,0
+validation,Día 6,mae,xgboost,XGBoost,1
+validation,Día 6,mae,rbf,RBF,0
+validation,Día 6,rmse,naive_week,Naive semanal,0
+validation,Día 6,rmse,naive_persistence,Persistencia,0
+validation,Día 6,rmse,xgboost,XGBoost,24
+validation,Día 6,rmse,rbf,RBF,0
+validation,Día 6,smape_pct,naive_week,Naive semanal,24
+validation,Día 6,smape_pct,naive_persistence,Persistencia,0
+validation,Día 6,smape_pct,xgboost,XGBoost,0
+validation,Día 6,smape_pct,rbf,RBF,0
+validation,Día 7,mae,naive_week,Naive semanal,9
+validation,Día 7,mae,naive_persistence,Persistencia,0
+validation,Día 7,mae,xgboost,XGBoost,15
+validation,Día 7,mae,rbf,RBF,0
+validation,Día 7,rmse,naive_week,Naive semanal,0
+validation,Día 7,rmse,naive_persistence,Persistencia,0
+validation,Día 7,rmse,xgboost,XGBoost,24
+validation,Día 7,rmse,rbf,RBF,0
+validation,Día 7,smape_pct,naive_week,Naive semanal,23
+validation,Día 7,smape_pct,naive_persistence,Persistencia,1
+validation,Día 7,smape_pct,xgboost,XGBoost,0
+validation,Día 7,smape_pct,rbf,RBF,0
+test,Día 1,mae,naive_week,Naive semanal,0
+test,Día 1,mae,naive_persistence,Persistencia,1
+test,Día 1,mae,xgboost,XGBoost,23
+test,Día 1,mae,rbf,RBF,0
+test,Día 1,rmse,naive_week,Naive semanal,0
+test,Día 1,rmse,naive_persistence,Persistencia,0
+test,Día 1,rmse,xgboost,XGBoost,24
+test,Día 1,rmse,rbf,RBF,0
+test,Día 1,smape_pct,naive_week,Naive semanal,0
+test,Día 1,smape_pct,naive_persistence,Persistencia,1
+test,Día 1,smape_pct,xgboost,XGBoost,23
+test,Día 1,smape_pct,rbf,RBF,0
+test,Día 2,mae,naive_week,Naive semanal,0
+test,Día 2,mae,naive_persistence,Persistencia,0
+test,Día 2,mae,xgboost,XGBoost,23
+test,Día 2,mae,rbf,RBF,1
+test,Día 2,rmse,naive_week,Naive semanal,0
+test,Día 2,rmse,naive_persistence,Persistencia,0
+test,Día 2,rmse,xgboost,XGBoost,24
+test,Día 2,rmse,rbf,RBF,0
+test,Día 2,smape_pct,naive_week,Naive semanal,0
+test,Día 2,smape_pct,naive_persistence,Persistencia,0
+test,Día 2,smape_pct,xgboost,XGBoost,23
+test,Día 2,smape_pct,rbf,RBF,1
+test,Día 3,mae,naive_week,Naive semanal,0
+test,Día 3,mae,naive_persistence,Persistencia,0
+test,Día 3,mae,xgboost,XGBoost,24
+test,Día 3,mae,rbf,RBF,0
+test,Día 3,rmse,naive_week,Naive semanal,0
+test,Día 3,rmse,naive_persistence,Persistencia,0
+test,Día 3,rmse,xgboost,XGBoost,24
+test,Día 3,rmse,rbf,RBF,0
+test,Día 3,smape_pct,naive_week,Naive semanal,0
+test,Día 3,smape_pct,naive_persistence,Persistencia,0
+test,Día 3,smape_pct,xgboost,XGBoost,23
+test,Día 3,smape_pct,rbf,RBF,1
+test,Día 4,mae,naive_week,Naive semanal,0
+test,Día 4,mae,naive_persistence,Persistencia,0
+test,Día 4,mae,xgboost,XGBoost,24
+test,Día 4,mae,rbf,RBF,0
+test,Día 4,rmse,naive_week,Naive semanal,0
+test,Día 4,rmse,naive_persistence,Persistencia,0
+test,Día 4,rmse,xgboost,XGBoost,24
+test,Día 4,rmse,rbf,RBF,0
+test,Día 4,smape_pct,naive_week,Naive semanal,0
+test,Día 4,smape_pct,naive_persistence,Persistencia,0
+test,Día 4,smape_pct,xgboost,XGBoost,24
+test,Día 4,smape_pct,rbf,RBF,0
+test,Día 5,mae,naive_week,Naive semanal,0
+test,Día 5,mae,naive_persistence,Persistencia,0
+test,Día 5,mae,xgboost,XGBoost,24
+test,Día 5,mae,rbf,RBF,0
+test,Día 5,rmse,naive_week,Naive semanal,0
+test,Día 5,rmse,naive_persistence,Persistencia,0
+test,Día 5,rmse,xgboost,XGBoost,24
+test,Día 5,rmse,rbf,RBF,0
+test,Día 5,smape_pct,naive_week,Naive semanal,0
+test,Día 5,smape_pct,naive_persistence,Persistencia,0
+test,Día 5,smape_pct,xgboost,XGBoost,24
+test,Día 5,smape_pct,rbf,RBF,0
+test,Día 6,mae,naive_week,Naive semanal,0
+test,Día 6,mae,naive_persistence,Persistencia,0
+test,Día 6,mae,xgboost,XGBoost,24
+test,Día 6,mae,rbf,RBF,0
+test,Día 6,rmse,naive_week,Naive semanal,0
+test,Día 6,rmse,naive_persistence,Persistencia,0
+test,Día 6,rmse,xgboost,XGBoost,24
+test,Día 6,rmse,rbf,RBF,0
+test,Día 6,smape_pct,naive_week,Naive semanal,0
+test,Día 6,smape_pct,naive_persistence,Persistencia,0
+test,Día 6,smape_pct,xgboost,XGBoost,24
+test,Día 6,smape_pct,rbf,RBF,0
+test,Día 7,mae,naive_week,Naive semanal,0
+test,Día 7,mae,naive_persistence,Persistencia,0
+test,Día 7,mae,xgboost,XGBoost,22
+test,Día 7,mae,rbf,RBF,2
+test,Día 7,rmse,naive_week,Naive semanal,0
+test,Día 7,rmse,naive_persistence,Persistencia,0
+test,Día 7,rmse,xgboost,XGBoost,24
+test,Día 7,rmse,rbf,RBF,0
+test,Día 7,smape_pct,naive_week,Naive semanal,0
+test,Día 7,smape_pct,naive_persistence,Persistencia,0
+test,Día 7,smape_pct,xgboost,XGBoost,19
+test,Día 7,smape_pct,rbf,RBF,5

@@ -1,0 +1,33 @@
+PML FORECAST 7D — EVALUACIÓN CON R²
+==============================================================================
+R² calculado desde predicciones individuales (actual y prediction).
+R² global se calcula sobre todos los pares de predicción de cada split/modelo.
+Los horizontes pueden compartir observaciones reales; el agregado representa
+el conjunto de pares horizonte-observación y no observaciones independientes.
+R² por horizonte se calcula separadamente para cada uno de los 168 horizontes.
+Un R² negativo es válido e indica desempeño inferior al predictor constante
+basado en la media de los valores reales del conjunto evaluado.
+
+R² GLOBAL — VALIDATION Y TEST
+     split    model_name      n        r2  mean_horizon_r2        mae       rmse  smape_pct
+      test  Persistencia 386652 -0.938622        -0.938487 484.728056 916.868474  41.288897
+      test Naive semanal 386652 -0.135790        -0.135826 343.313759 701.793641  29.450642
+      test           RBF 386652  0.111548         0.111615 290.523393 620.693705  27.631781
+      test       XGBoost 386652  0.221905         0.222018 271.822881 580.867183  25.684049
+validation  Persistencia 400344 -0.900702        -0.900702 215.818470 545.402887  24.999466
+validation Naive semanal 400344 -0.611098        -0.611098 207.298859 502.135947  24.784989
+validation           RBF 400344 -0.008306        -0.008306 236.716168 397.243303  31.573713
+validation       XGBoost 400344  0.078075         0.078075 220.784031 379.846516  29.659472
+
+MÉTRICAS RECALCULADAS DESDE LAS PREDICCIONES
+     split             model    model_name      n        mae       rmse
+      test naive_persistence  Persistencia 386652 484.728056 916.868474
+      test        naive_week Naive semanal 386652 343.313759 701.793641
+      test               rbf           RBF 386652 290.523393 620.693705
+      test           xgboost       XGBoost 386652 271.822881 580.867183
+validation naive_persistence  Persistencia 400344 215.818470 545.402887
+validation        naive_week Naive semanal 400344 207.298859 502.135947
+validation               rbf           RBF 400344 236.716168 397.243303
+validation           xgboost       XGBoost 400344 220.784031 379.846516
+
+Nota: el R² global no es el promedio de los R² por horizonte.

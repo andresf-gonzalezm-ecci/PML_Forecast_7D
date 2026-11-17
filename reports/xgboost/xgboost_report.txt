@@ -1,0 +1,59 @@
+PML FORECAST 7D — XGBOOST
+==============================================================================
+XGBoost version: 3.4.1
+Modelos entrenados: 168
+Parámetros: {"objective": "reg:squarederror", "eval_metric": "rmse", "tree_method": "hist", "max_depth": 6, "eta": 0.05, "subsample": 0.85, "colsample_bytree": 0.85, "min_child_weight": 5, "lambda": 5.0, "alpha": 0.0, "seed": 42, "nthread": -1, "verbosity": 0}
+Num boost rounds máximo: 1500
+Early stopping rounds: 75
+
+Resumen pooled por split y modelo:
+(Las observaciones de diferentes horizontes pueden solaparse.)
+
+VALIDATION — XGBoost
+  N: 400,344
+  MAE: 220.784031
+  RMSE: 379.846516
+  Mediana error absoluto: 151.165680
+  sMAPE: 29.659472%
+
+VALIDATION — Naive semanal
+  N: 400,344
+  MAE: 207.298859
+  RMSE: 502.135947
+  Mediana error absoluto: 78.460022
+  sMAPE: 24.784989%
+
+VALIDATION — Persistencia
+  N: 400,344
+  MAE: 215.818470
+  RMSE: 545.402887
+  Mediana error absoluto: 74.080017
+  sMAPE: 24.999466%
+
+TEST — XGBoost
+  N: 386,652
+  MAE: 271.822881
+  RMSE: 580.867183
+  Mediana error absoluto: 138.696411
+  sMAPE: 25.684049%
+
+TEST — Naive semanal
+  N: 386,652
+  MAE: 343.313759
+  RMSE: 701.793641
+  Mediana error absoluto: 155.679993
+  sMAPE: 29.450642%
+
+TEST — Persistencia
+  N: 386,652
+  MAE: 484.728056
+  RMSE: 916.868474
+  Mediana error absoluto: 214.310013
+  sMAPE: 41.288897%
+
+Notas:
+- Cada horizonte tiene un modelo independiente.
+- El conjunto de validación se usa para early stopping.
+- El conjunto test no se usa para ajustar parámetros ni seleccionar iteraciones.
+- sMAPE excluye casos donde real y predicho son ambos cero.
+- MAE y RMSE conservan precios negativos y valores extremos.

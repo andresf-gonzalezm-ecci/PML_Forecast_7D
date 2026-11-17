@@ -1,0 +1,49 @@
+PML FORECAST 7D — COMPARACIÓN CONSOLIDADA
+==============================================================================
+Baselines tomados únicamente de baseline_metrics_by_horizon.csv.
+Registros duplicados de baseline en CSV XGBoost/RBF descartados.
+Registros consolidados: 1344 (esperados: 672).
+MAE pooled ponderado por n; RMSE reconstruido desde MSE; sMAPE ponderado por smape_valid_n.
+Los horizontes comparten observaciones solapadas; no son observaciones independientes.
+
+RESUMEN POOLED
+     split    model_name      n      mae     rmse  smape_pct
+validation Naive semanal 400344 207.2989 502.1359    24.7850
+validation  Persistencia 400344 215.8185 545.4029    24.9995
+validation       XGBoost 400344 220.7840 379.8465    29.6595
+validation           RBF 400344 236.7162 397.2433    31.5737
+      test Naive semanal 386652 343.3138 701.7936    29.4506
+      test  Persistencia 386652 484.7281 916.8685    41.2889
+      test       XGBoost 386652 271.8229 580.8672    25.6840
+      test           RBF 386652 290.5234 620.6937    27.6318
+
+HORIZONTES GANADOS POR MODELO
+     split    metric             model  horizons_won
+      test       mae naive_persistence             1
+      test       mae               rbf             3
+      test       mae           xgboost           164
+      test      rmse           xgboost           168
+      test smape_pct naive_persistence             1
+      test smape_pct               rbf             7
+      test smape_pct           xgboost           160
+validation       mae naive_persistence            31
+validation       mae        naive_week           105
+validation       mae           xgboost            32
+validation      rmse               rbf             5
+validation      rmse           xgboost           163
+validation smape_pct naive_persistence            65
+validation smape_pct        naive_week           103
+
+SELECCIÓN POR HORIZONTE SEGÚN VALIDATION MAE
+   model_name  horizons_selected
+Naive semanal                105
+ Persistencia                 31
+      XGBoost                 32
+          RBF                  0
+
+RESULTADO EN TEST DE LA SELECCIÓN
+MAE medio por horizonte: 339.464343
+RMSE medio por horizonte: 694.291452
+sMAPE medio por horizonte: 29.297763%
+
+Nota: la selección se realizó con validation. Test se utilizó solo para evaluar.

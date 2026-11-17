@@ -1,0 +1,1009 @@
+﻿horizon,model,model_name,winning_metric_value,split,metric
+1,naive_persistence,Persistencia,77.32452798540032,validation,mae
+2,xgboost,XGBoost,110.77430006020018,validation,mae
+3,xgboost,XGBoost,128.54193776043033,validation,mae
+4,xgboost,XGBoost,134.58852464273303,validation,mae
+5,xgboost,XGBoost,142.2250709677763,validation,mae
+6,xgboost,XGBoost,150.32461657986337,validation,mae
+7,xgboost,XGBoost,167.24971124198424,validation,mae
+8,xgboost,XGBoost,172.3664006638617,validation,mae
+9,xgboost,XGBoost,176.9667702761709,validation,mae
+10,xgboost,XGBoost,187.30009886260999,validation,mae
+11,xgboost,XGBoost,170.37242433177389,validation,mae
+12,xgboost,XGBoost,174.2694121891843,validation,mae
+13,xgboost,XGBoost,173.64908863984883,validation,mae
+14,xgboost,XGBoost,186.77132643404698,validation,mae
+15,naive_persistence,Persistencia,201.3611463385873,validation,mae
+16,xgboost,XGBoost,197.03612443713445,validation,mae
+17,xgboost,XGBoost,196.17389111953077,validation,mae
+18,xgboost,XGBoost,193.587589688127,validation,mae
+19,naive_persistence,Persistencia,189.43308938395012,validation,mae
+20,naive_persistence,Persistencia,182.43832202804123,validation,mae
+21,naive_persistence,Persistencia,175.22355081331716,validation,mae
+22,naive_persistence,Persistencia,162.03643360850293,validation,mae
+23,naive_persistence,Persistencia,147.09838476593237,validation,mae
+24,naive_persistence,Persistencia,143.66336630734384,validation,mae
+25,naive_persistence,Persistencia,153.04434745810985,validation,mae
+26,naive_persistence,Persistencia,168.98788143514938,validation,mae
+27,naive_persistence,Persistencia,181.29541790410346,validation,mae
+28,naive_persistence,Persistencia,190.70312272046627,validation,mae
+29,naive_persistence,Persistencia,197.06863651763877,validation,mae
+30,naive_persistence,Persistencia,201.64819200189984,validation,mae
+31,naive_persistence,Persistencia,204.87931669413717,validation,mae
+32,naive_week,Naive semanal,207.2988589883501,validation,mae
+33,naive_week,Naive semanal,207.2988589883501,validation,mae
+34,naive_week,Naive semanal,207.2988589883501,validation,mae
+35,naive_week,Naive semanal,207.2988589883501,validation,mae
+36,naive_week,Naive semanal,207.2988589883501,validation,mae
+37,naive_week,Naive semanal,207.2988589883501,validation,mae
+38,naive_week,Naive semanal,207.2988589883501,validation,mae
+39,naive_week,Naive semanal,207.2988589883501,validation,mae
+40,naive_week,Naive semanal,207.2988589883501,validation,mae
+41,naive_week,Naive semanal,207.2988589883501,validation,mae
+42,naive_week,Naive semanal,207.2988589883501,validation,mae
+43,naive_persistence,Persistencia,204.27201444343314,validation,mae
+44,naive_persistence,Persistencia,200.37006680724303,validation,mae
+45,naive_persistence,Persistencia,195.57681077195974,validation,mae
+46,naive_persistence,Persistencia,186.88172491908423,validation,mae
+47,naive_persistence,Persistencia,175.80493933725296,validation,mae
+48,naive_persistence,Persistencia,173.16030251154416,validation,mae
+49,naive_persistence,Persistencia,177.16544721429707,validation,mae
+50,naive_persistence,Persistencia,184.73378525388577,validation,mae
+51,naive_persistence,Persistencia,195.0611251081882,validation,mae
+52,naive_persistence,Persistencia,202.41328634437372,validation,mae
+53,naive_persistence,Persistencia,206.86185560654653,validation,mae
+54,naive_week,Naive semanal,207.2988589883501,validation,mae
+55,naive_week,Naive semanal,207.2988589883501,validation,mae
+56,naive_week,Naive semanal,207.2988589883501,validation,mae
+57,naive_week,Naive semanal,207.2988589883501,validation,mae
+58,naive_week,Naive semanal,207.2988589883501,validation,mae
+59,naive_week,Naive semanal,207.2988589883501,validation,mae
+60,naive_week,Naive semanal,207.2988589883501,validation,mae
+61,naive_week,Naive semanal,207.2988589883501,validation,mae
+62,naive_week,Naive semanal,207.2988589883501,validation,mae
+63,naive_week,Naive semanal,207.2988589883501,validation,mae
+64,naive_week,Naive semanal,207.2988589883501,validation,mae
+65,naive_week,Naive semanal,207.2988589883501,validation,mae
+66,naive_week,Naive semanal,207.2988589883501,validation,mae
+67,naive_week,Naive semanal,207.2988589883501,validation,mae
+68,naive_week,Naive semanal,207.2988589883501,validation,mae
+69,naive_week,Naive semanal,207.2988589883501,validation,mae
+70,naive_persistence,Persistencia,200.33538037170845,validation,mae
+71,naive_persistence,Persistencia,193.09274476403905,validation,mae
+72,naive_persistence,Persistencia,191.85987875134416,validation,mae
+73,naive_persistence,Persistencia,198.79368489497958,validation,mae
+74,naive_persistence,Persistencia,206.5506676190849,validation,mae
+75,naive_week,Naive semanal,207.2988589883501,validation,mae
+76,naive_week,Naive semanal,207.2988589883501,validation,mae
+77,naive_week,Naive semanal,207.2988589883501,validation,mae
+78,naive_week,Naive semanal,207.2988589883501,validation,mae
+79,naive_week,Naive semanal,207.2988589883501,validation,mae
+80,naive_week,Naive semanal,207.2988589883501,validation,mae
+81,naive_week,Naive semanal,207.2988589883501,validation,mae
+82,naive_week,Naive semanal,207.2988589883501,validation,mae
+83,naive_week,Naive semanal,207.2988589883501,validation,mae
+84,naive_week,Naive semanal,207.2988589883501,validation,mae
+85,naive_week,Naive semanal,207.2988589883501,validation,mae
+86,naive_week,Naive semanal,207.2988589883501,validation,mae
+87,naive_week,Naive semanal,207.2988589883501,validation,mae
+88,naive_week,Naive semanal,207.2988589883501,validation,mae
+89,naive_week,Naive semanal,207.2988589883501,validation,mae
+90,naive_week,Naive semanal,207.2988589883501,validation,mae
+91,naive_week,Naive semanal,207.2988589883501,validation,mae
+92,naive_week,Naive semanal,207.2988589883501,validation,mae
+93,naive_week,Naive semanal,207.2988589883501,validation,mae
+94,naive_week,Naive semanal,207.2988589883501,validation,mae
+95,naive_week,Naive semanal,207.2988589883501,validation,mae
+96,naive_week,Naive semanal,207.2988589883501,validation,mae
+97,naive_week,Naive semanal,207.2988589883501,validation,mae
+98,naive_week,Naive semanal,207.2988589883501,validation,mae
+99,naive_week,Naive semanal,207.2988589883501,validation,mae
+100,naive_week,Naive semanal,207.2988589883501,validation,mae
+101,naive_week,Naive semanal,207.2988589883501,validation,mae
+102,naive_week,Naive semanal,207.2988589883501,validation,mae
+103,naive_week,Naive semanal,207.2988589883501,validation,mae
+104,naive_week,Naive semanal,207.2988589883501,validation,mae
+105,naive_week,Naive semanal,207.2988589883501,validation,mae
+106,naive_week,Naive semanal,207.2988589883501,validation,mae
+107,naive_week,Naive semanal,207.2988589883501,validation,mae
+108,naive_week,Naive semanal,207.2988589883501,validation,mae
+109,naive_week,Naive semanal,207.2988589883501,validation,mae
+110,naive_week,Naive semanal,207.2988589883501,validation,mae
+111,naive_week,Naive semanal,207.2988589883501,validation,mae
+112,naive_week,Naive semanal,207.2988589883501,validation,mae
+113,naive_week,Naive semanal,207.2988589883501,validation,mae
+114,naive_week,Naive semanal,207.2988589883501,validation,mae
+115,naive_week,Naive semanal,207.2988589883501,validation,mae
+116,naive_week,Naive semanal,207.2988589883501,validation,mae
+117,naive_week,Naive semanal,207.2988589883501,validation,mae
+118,naive_week,Naive semanal,207.2988589883501,validation,mae
+119,naive_week,Naive semanal,207.2988589883501,validation,mae
+120,naive_week,Naive semanal,207.2988589883501,validation,mae
+121,naive_week,Naive semanal,207.2988589883501,validation,mae
+122,naive_week,Naive semanal,207.2988589883501,validation,mae
+123,naive_week,Naive semanal,207.2988589883501,validation,mae
+124,naive_week,Naive semanal,207.2988589883501,validation,mae
+125,naive_week,Naive semanal,207.2988589883501,validation,mae
+126,naive_week,Naive semanal,207.2988589883501,validation,mae
+127,naive_week,Naive semanal,207.2988589883501,validation,mae
+128,naive_week,Naive semanal,207.2988589883501,validation,mae
+129,naive_week,Naive semanal,207.2988589883501,validation,mae
+130,naive_week,Naive semanal,207.2988589883501,validation,mae
+131,naive_week,Naive semanal,207.2988589883501,validation,mae
+132,naive_week,Naive semanal,207.2988589883501,validation,mae
+133,naive_week,Naive semanal,207.2988589883501,validation,mae
+134,naive_week,Naive semanal,207.2988589883501,validation,mae
+135,naive_week,Naive semanal,207.2988589883501,validation,mae
+136,naive_week,Naive semanal,207.2988589883501,validation,mae
+137,naive_week,Naive semanal,207.2988589883501,validation,mae
+138,naive_week,Naive semanal,207.2988589883501,validation,mae
+139,naive_week,Naive semanal,207.2988589883501,validation,mae
+140,naive_week,Naive semanal,207.2988589883501,validation,mae
+141,naive_week,Naive semanal,207.2988589883501,validation,mae
+142,naive_week,Naive semanal,207.2988589883501,validation,mae
+143,xgboost,XGBoost,201.79872861951026,validation,mae
+144,naive_week,Naive semanal,207.2988589883501,validation,mae
+145,xgboost,XGBoost,203.76671849745838,validation,mae
+146,naive_week,Naive semanal,207.2988589883501,validation,mae
+147,xgboost,XGBoost,204.23923883346063,validation,mae
+148,naive_week,Naive semanal,207.2988589883501,validation,mae
+149,xgboost,XGBoost,205.14427995061453,validation,mae
+150,xgboost,XGBoost,205.07827123593142,validation,mae
+151,xgboost,XGBoost,202.36375718590998,validation,mae
+152,naive_week,Naive semanal,207.2988589883501,validation,mae
+153,naive_week,Naive semanal,207.2988589883501,validation,mae
+154,xgboost,XGBoost,202.99456478475875,validation,mae
+155,xgboost,XGBoost,206.0691001082087,validation,mae
+156,naive_week,Naive semanal,207.2988589883501,validation,mae
+157,naive_week,Naive semanal,207.2988589883501,validation,mae
+158,naive_week,Naive semanal,207.2988589883501,validation,mae
+159,xgboost,XGBoost,199.3105185601174,validation,mae
+160,xgboost,XGBoost,202.76137651258588,validation,mae
+161,naive_week,Naive semanal,207.2988589883501,validation,mae
+162,naive_week,Naive semanal,207.2988589883501,validation,mae
+163,xgboost,XGBoost,202.88223725069585,validation,mae
+164,xgboost,XGBoost,206.58247920399296,validation,mae
+165,xgboost,XGBoost,205.21079013710806,validation,mae
+166,xgboost,XGBoost,201.80531562680315,validation,mae
+167,xgboost,XGBoost,195.8821982681076,validation,mae
+168,xgboost,XGBoost,189.74247127633808,validation,mae
+1,xgboost,XGBoost,287.66265714596744,validation,rmse
+2,xgboost,XGBoost,293.9633019006047,validation,rmse
+3,xgboost,XGBoost,309.530959301647,validation,rmse
+4,xgboost,XGBoost,313.5664574847989,validation,rmse
+5,xgboost,XGBoost,320.36832124077335,validation,rmse
+6,xgboost,XGBoost,326.05017011729575,validation,rmse
+7,xgboost,XGBoost,332.7095121945608,validation,rmse
+8,xgboost,XGBoost,336.07381820068036,validation,rmse
+9,xgboost,XGBoost,334.4011360995248,validation,rmse
+10,xgboost,XGBoost,343.6154642970004,validation,rmse
+11,xgboost,XGBoost,332.30546449639974,validation,rmse
+12,xgboost,XGBoost,334.02236559363126,validation,rmse
+13,xgboost,XGBoost,337.26252760238964,validation,rmse
+14,xgboost,XGBoost,346.36601037726064,validation,rmse
+15,xgboost,XGBoost,349.03295525436005,validation,rmse
+16,xgboost,XGBoost,349.067415234812,validation,rmse
+17,xgboost,XGBoost,344.33807891185376,validation,rmse
+18,xgboost,XGBoost,351.91886672372175,validation,rmse
+19,xgboost,XGBoost,353.4826600301704,validation,rmse
+20,xgboost,XGBoost,346.3687995391805,validation,rmse
+21,xgboost,XGBoost,352.0643490479346,validation,rmse
+22,xgboost,XGBoost,343.0393793953617,validation,rmse
+23,xgboost,XGBoost,340.48072838217564,validation,rmse
+24,xgboost,XGBoost,353.0553557128189,validation,rmse
+25,xgboost,XGBoost,370.0690717587565,validation,rmse
+26,xgboost,XGBoost,367.9101368797527,validation,rmse
+27,xgboost,XGBoost,379.7188471937606,validation,rmse
+28,xgboost,XGBoost,382.03145882220855,validation,rmse
+29,xgboost,XGBoost,393.09806423676474,validation,rmse
+30,xgboost,XGBoost,383.4992209544387,validation,rmse
+31,xgboost,XGBoost,390.5011672636777,validation,rmse
+32,xgboost,XGBoost,391.14423415216226,validation,rmse
+33,rbf,RBF,396.4031574930419,validation,rmse
+34,xgboost,XGBoost,392.8601506915528,validation,rmse
+35,rbf,RBF,390.9464331392353,validation,rmse
+36,xgboost,XGBoost,389.3887784813223,validation,rmse
+37,xgboost,XGBoost,393.3441719994336,validation,rmse
+38,xgboost,XGBoost,400.34268209245135,validation,rmse
+39,xgboost,XGBoost,392.217641053086,validation,rmse
+40,xgboost,XGBoost,388.35493371442334,validation,rmse
+41,xgboost,XGBoost,396.66022811666835,validation,rmse
+42,rbf,RBF,396.96232834546856,validation,rmse
+43,xgboost,XGBoost,393.51992701645304,validation,rmse
+44,xgboost,XGBoost,390.32160819005657,validation,rmse
+45,rbf,RBF,393.84171468796455,validation,rmse
+46,xgboost,XGBoost,378.89424372340875,validation,rmse
+47,xgboost,XGBoost,387.8789822112427,validation,rmse
+48,xgboost,XGBoost,379.6162727285558,validation,rmse
+49,xgboost,XGBoost,375.95218201760554,validation,rmse
+50,xgboost,XGBoost,385.5671526787848,validation,rmse
+51,xgboost,XGBoost,383.76323098989616,validation,rmse
+52,xgboost,XGBoost,391.7197202904026,validation,rmse
+53,xgboost,XGBoost,394.3553622732686,validation,rmse
+54,rbf,RBF,394.1676063428445,validation,rmse
+55,xgboost,XGBoost,397.0553142702671,validation,rmse
+56,xgboost,XGBoost,393.51447135397814,validation,rmse
+57,xgboost,XGBoost,388.45988327640134,validation,rmse
+58,xgboost,XGBoost,393.9143690432058,validation,rmse
+59,xgboost,XGBoost,387.3384614022094,validation,rmse
+60,xgboost,XGBoost,388.73729412990775,validation,rmse
+61,xgboost,XGBoost,392.47789337240073,validation,rmse
+62,xgboost,XGBoost,388.64561802752496,validation,rmse
+63,xgboost,XGBoost,390.65203530367666,validation,rmse
+64,xgboost,XGBoost,397.57644877959217,validation,rmse
+65,xgboost,XGBoost,386.31420506827135,validation,rmse
+66,xgboost,XGBoost,387.4390002535135,validation,rmse
+67,xgboost,XGBoost,387.6000688407284,validation,rmse
+68,xgboost,XGBoost,387.02105109165467,validation,rmse
+69,xgboost,XGBoost,382.31404845291956,validation,rmse
+70,xgboost,XGBoost,384.8291822787227,validation,rmse
+71,xgboost,XGBoost,379.4465573020878,validation,rmse
+72,xgboost,XGBoost,377.24919366521095,validation,rmse
+73,xgboost,XGBoost,381.69165116544684,validation,rmse
+74,xgboost,XGBoost,389.89603721399885,validation,rmse
+75,xgboost,XGBoost,392.6184645573687,validation,rmse
+76,xgboost,XGBoost,385.3187131845465,validation,rmse
+77,xgboost,XGBoost,397.85720160209456,validation,rmse
+78,xgboost,XGBoost,393.7061579860828,validation,rmse
+79,xgboost,XGBoost,397.84498561905167,validation,rmse
+80,xgboost,XGBoost,393.6882760514995,validation,rmse
+81,xgboost,XGBoost,390.05377707257395,validation,rmse
+82,xgboost,XGBoost,386.9959102649992,validation,rmse
+83,xgboost,XGBoost,387.697797795231,validation,rmse
+84,xgboost,XGBoost,381.70357167460264,validation,rmse
+85,xgboost,XGBoost,388.3642621841974,validation,rmse
+86,xgboost,XGBoost,383.95561480034894,validation,rmse
+87,xgboost,XGBoost,395.66506331539364,validation,rmse
+88,xgboost,XGBoost,394.1754626608602,validation,rmse
+89,xgboost,XGBoost,390.4216090412584,validation,rmse
+90,xgboost,XGBoost,387.20349415930326,validation,rmse
+91,xgboost,XGBoost,387.47134334426414,validation,rmse
+92,xgboost,XGBoost,385.7071570845069,validation,rmse
+93,xgboost,XGBoost,383.99674017611625,validation,rmse
+94,xgboost,XGBoost,383.670191051509,validation,rmse
+95,xgboost,XGBoost,383.62221193432424,validation,rmse
+96,xgboost,XGBoost,385.7554266552462,validation,rmse
+97,xgboost,XGBoost,381.6215197456798,validation,rmse
+98,xgboost,XGBoost,382.44668566600484,validation,rmse
+99,xgboost,XGBoost,383.2485917158245,validation,rmse
+100,xgboost,XGBoost,384.6415656103215,validation,rmse
+101,xgboost,XGBoost,387.63947241340594,validation,rmse
+102,xgboost,XGBoost,394.7771352348136,validation,rmse
+103,xgboost,XGBoost,386.616416172396,validation,rmse
+104,xgboost,XGBoost,382.77640466354177,validation,rmse
+105,xgboost,XGBoost,388.6679653376589,validation,rmse
+106,xgboost,XGBoost,384.0621619357314,validation,rmse
+107,xgboost,XGBoost,385.35855116769596,validation,rmse
+108,xgboost,XGBoost,382.6493554961603,validation,rmse
+109,xgboost,XGBoost,387.44317024252575,validation,rmse
+110,xgboost,XGBoost,383.8292428428689,validation,rmse
+111,xgboost,XGBoost,387.9053444307139,validation,rmse
+112,xgboost,XGBoost,384.49561911875816,validation,rmse
+113,xgboost,XGBoost,389.3557499477712,validation,rmse
+114,xgboost,XGBoost,387.4897934376511,validation,rmse
+115,xgboost,XGBoost,390.33017559336514,validation,rmse
+116,xgboost,XGBoost,387.31051588348805,validation,rmse
+117,xgboost,XGBoost,385.0995115645782,validation,rmse
+118,xgboost,XGBoost,380.5298462943794,validation,rmse
+119,xgboost,XGBoost,391.7947838906669,validation,rmse
+120,xgboost,XGBoost,384.3978244266365,validation,rmse
+121,xgboost,XGBoost,383.0856322572561,validation,rmse
+122,xgboost,XGBoost,379.5375914380617,validation,rmse
+123,xgboost,XGBoost,380.3984234332984,validation,rmse
+124,xgboost,XGBoost,384.36749793917073,validation,rmse
+125,xgboost,XGBoost,383.10113040117034,validation,rmse
+126,xgboost,XGBoost,386.76074439581873,validation,rmse
+127,xgboost,XGBoost,381.39080339583114,validation,rmse
+128,xgboost,XGBoost,380.00013380831007,validation,rmse
+129,xgboost,XGBoost,382.71735781760407,validation,rmse
+130,xgboost,XGBoost,383.98279267599423,validation,rmse
+131,xgboost,XGBoost,387.42185283651537,validation,rmse
+132,xgboost,XGBoost,386.4450338087484,validation,rmse
+133,xgboost,XGBoost,388.8789154591981,validation,rmse
+134,xgboost,XGBoost,386.09847519120433,validation,rmse
+135,xgboost,XGBoost,384.99120828041856,validation,rmse
+136,xgboost,XGBoost,391.7979045771835,validation,rmse
+137,xgboost,XGBoost,392.64817762597505,validation,rmse
+138,xgboost,XGBoost,393.91734939786886,validation,rmse
+139,xgboost,XGBoost,385.5508439441004,validation,rmse
+140,xgboost,XGBoost,380.6988443181944,validation,rmse
+141,xgboost,XGBoost,381.0347279452973,validation,rmse
+142,xgboost,XGBoost,386.30220931997036,validation,rmse
+143,xgboost,XGBoost,384.7431320569536,validation,rmse
+144,xgboost,XGBoost,388.10558575110673,validation,rmse
+145,xgboost,XGBoost,381.5527311287616,validation,rmse
+146,xgboost,XGBoost,383.19012698412433,validation,rmse
+147,xgboost,XGBoost,376.600409430503,validation,rmse
+148,xgboost,XGBoost,381.41255066588104,validation,rmse
+149,xgboost,XGBoost,377.7459728116611,validation,rmse
+150,xgboost,XGBoost,381.26124396753215,validation,rmse
+151,xgboost,XGBoost,374.8026899252782,validation,rmse
+152,xgboost,XGBoost,379.56415914530766,validation,rmse
+153,xgboost,XGBoost,381.86080528731566,validation,rmse
+154,xgboost,XGBoost,380.641099417257,validation,rmse
+155,xgboost,XGBoost,385.6662656390957,validation,rmse
+156,xgboost,XGBoost,387.3377249409148,validation,rmse
+157,xgboost,XGBoost,381.8262918284675,validation,rmse
+158,xgboost,XGBoost,387.6701851711522,validation,rmse
+159,xgboost,XGBoost,377.75048876575437,validation,rmse
+160,xgboost,XGBoost,383.5738719587316,validation,rmse
+161,xgboost,XGBoost,385.61797549567467,validation,rmse
+162,xgboost,XGBoost,387.2443972179226,validation,rmse
+163,xgboost,XGBoost,382.75410108099925,validation,rmse
+164,xgboost,XGBoost,388.06320067835554,validation,rmse
+165,xgboost,XGBoost,389.70533149863513,validation,rmse
+166,xgboost,XGBoost,387.9609340061329,validation,rmse
+167,xgboost,XGBoost,388.96171769810314,validation,rmse
+168,xgboost,XGBoost,380.8483707278761,validation,rmse
+1,naive_persistence,Persistencia,7.296423687382062,validation,smape_pct
+2,naive_persistence,Persistencia,10.887741853190448,validation,smape_pct
+3,naive_persistence,Persistencia,13.49844650865982,validation,smape_pct
+4,naive_persistence,Persistencia,15.5097636023641,validation,smape_pct
+5,naive_persistence,Persistencia,17.1467469969825,validation,smape_pct
+6,naive_persistence,Persistencia,18.312218603051992,validation,smape_pct
+7,naive_persistence,Persistencia,19.310948883017574,validation,smape_pct
+8,naive_persistence,Persistencia,20.116377335294484,validation,smape_pct
+9,naive_persistence,Persistencia,20.756158626148327,validation,smape_pct
+10,naive_persistence,Persistencia,21.198334939258967,validation,smape_pct
+11,naive_persistence,Persistencia,21.472082122296992,validation,smape_pct
+12,naive_persistence,Persistencia,21.752581792264976,validation,smape_pct
+13,naive_persistence,Persistencia,21.865239488116114,validation,smape_pct
+14,naive_persistence,Persistencia,21.845213510083507,validation,smape_pct
+15,naive_persistence,Persistencia,21.75083096526341,validation,smape_pct
+16,naive_persistence,Persistencia,21.6411903591327,validation,smape_pct
+17,naive_persistence,Persistencia,21.34551428153388,validation,smape_pct
+18,naive_persistence,Persistencia,20.872404410333743,validation,smape_pct
+19,naive_persistence,Persistencia,20.39997906009309,validation,smape_pct
+20,naive_persistence,Persistencia,19.73310622123519,validation,smape_pct
+21,naive_persistence,Persistencia,18.97697079801384,validation,smape_pct
+22,naive_persistence,Persistencia,17.966174211234744,validation,smape_pct
+23,naive_persistence,Persistencia,16.885131189898452,validation,smape_pct
+24,naive_persistence,Persistencia,16.66727929854017,validation,smape_pct
+25,naive_persistence,Persistencia,17.408734732994994,validation,smape_pct
+26,naive_persistence,Persistencia,18.686018156368647,validation,smape_pct
+27,naive_persistence,Persistencia,19.80566578993782,validation,smape_pct
+28,naive_persistence,Persistencia,20.861112242116462,validation,smape_pct
+29,naive_persistence,Persistencia,21.635107533945284,validation,smape_pct
+30,naive_persistence,Persistencia,22.27935021744425,validation,smape_pct
+31,naive_persistence,Persistencia,22.787975409822444,validation,smape_pct
+32,naive_persistence,Persistencia,23.32217150256723,validation,smape_pct
+33,naive_persistence,Persistencia,23.762730546087628,validation,smape_pct
+34,naive_persistence,Persistencia,24.081732768960883,validation,smape_pct
+35,naive_persistence,Persistencia,24.265416938735225,validation,smape_pct
+36,naive_persistence,Persistencia,24.437872984545724,validation,smape_pct
+37,naive_persistence,Persistencia,24.578888107445607,validation,smape_pct
+38,naive_persistence,Persistencia,24.573335957363426,validation,smape_pct
+39,naive_persistence,Persistencia,24.47464735697053,validation,smape_pct
+40,naive_persistence,Persistencia,24.299117398054953,validation,smape_pct
+41,naive_persistence,Persistencia,23.926369676853916,validation,smape_pct
+42,naive_persistence,Persistencia,23.553942951783633,validation,smape_pct
+43,naive_persistence,Persistencia,23.14691019422774,validation,smape_pct
+44,naive_persistence,Persistencia,22.703433430003173,validation,smape_pct
+45,naive_persistence,Persistencia,22.13066460711271,validation,smape_pct
+46,naive_persistence,Persistencia,21.282194944402967,validation,smape_pct
+47,naive_persistence,Persistencia,20.470294962821626,validation,smape_pct
+48,naive_persistence,Persistencia,20.265934848003486,validation,smape_pct
+49,naive_persistence,Persistencia,20.50380367162292,validation,smape_pct
+50,naive_persistence,Persistencia,21.146802230782384,validation,smape_pct
+51,naive_persistence,Persistencia,22.13074131491734,validation,smape_pct
+52,naive_persistence,Persistencia,22.93691166171097,validation,smape_pct
+53,naive_persistence,Persistencia,23.542162734941016,validation,smape_pct
+54,naive_persistence,Persistencia,24.04009161530913,validation,smape_pct
+55,naive_persistence,Persistencia,24.43133251543466,validation,smape_pct
+56,naive_persistence,Persistencia,24.772074944220048,validation,smape_pct
+57,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+58,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+59,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+60,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+61,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+62,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+63,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+64,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+65,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+66,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+67,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+68,naive_persistence,Persistencia,24.355928015219106,validation,smape_pct
+69,naive_persistence,Persistencia,23.976240946828508,validation,smape_pct
+70,naive_persistence,Persistencia,23.312476894807485,validation,smape_pct
+71,naive_persistence,Persistencia,22.71808745051833,validation,smape_pct
+72,naive_persistence,Persistencia,22.585313444616837,validation,smape_pct
+73,naive_persistence,Persistencia,23.109886994521897,validation,smape_pct
+74,naive_persistence,Persistencia,23.776268459833563,validation,smape_pct
+75,naive_persistence,Persistencia,24.550650457565553,validation,smape_pct
+76,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+77,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+78,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+79,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+80,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+81,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+82,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+83,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+84,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+85,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+86,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+87,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+88,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+89,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+90,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+91,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+92,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+93,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+94,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+95,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+96,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+97,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+98,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+99,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+100,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+101,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+102,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+103,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+104,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+105,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+106,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+107,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+108,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+109,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+110,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+111,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+112,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+113,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+114,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+115,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+116,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+117,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+118,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+119,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+120,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+121,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+122,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+123,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+124,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+125,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+126,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+127,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+128,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+129,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+130,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+131,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+132,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+133,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+134,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+135,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+136,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+137,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+138,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+139,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+140,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+141,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+142,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+143,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+144,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+145,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+146,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+147,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+148,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+149,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+150,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+151,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+152,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+153,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+154,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+155,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+156,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+157,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+158,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+159,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+160,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+161,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+162,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+163,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+164,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+165,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+166,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+167,naive_week,Naive semanal,24.784989092042565,validation,smape_pct
+168,naive_persistence,Persistencia,24.784989092042565,validation,smape_pct
+1,naive_persistence,Persistencia,155.2553338342362,test,mae
+2,xgboost,XGBoost,201.88593007896117,test,mae
+3,xgboost,XGBoost,206.65907752234656,test,mae
+4,xgboost,XGBoost,208.12485487318318,test,mae
+5,xgboost,XGBoost,217.02728955451698,test,mae
+6,xgboost,XGBoost,220.00959984440016,test,mae
+7,xgboost,XGBoost,223.97170097021748,test,mae
+8,xgboost,XGBoost,226.25429195104022,test,mae
+9,xgboost,XGBoost,225.22718067974628,test,mae
+10,xgboost,XGBoost,231.19784264977758,test,mae
+11,xgboost,XGBoost,228.7796616751159,test,mae
+12,xgboost,XGBoost,232.61626559257934,test,mae
+13,xgboost,XGBoost,235.09189849990366,test,mae
+14,xgboost,XGBoost,232.94222285169383,test,mae
+15,xgboost,XGBoost,230.47244258593489,test,mae
+16,xgboost,XGBoost,232.0741633591607,test,mae
+17,xgboost,XGBoost,234.6262358662905,test,mae
+18,xgboost,XGBoost,233.82157934133372,test,mae
+19,xgboost,XGBoost,236.59546260117204,test,mae
+20,xgboost,XGBoost,237.199669037752,test,mae
+21,xgboost,XGBoost,239.2194897990018,test,mae
+22,xgboost,XGBoost,237.89343853260908,test,mae
+23,xgboost,XGBoost,242.92778994696482,test,mae
+24,xgboost,XGBoost,244.2278776019878,test,mae
+25,xgboost,XGBoost,258.1757370525976,test,mae
+26,xgboost,XGBoost,263.62647658546643,test,mae
+27,xgboost,XGBoost,267.0523120655733,test,mae
+28,xgboost,XGBoost,277.4870222537714,test,mae
+29,xgboost,XGBoost,287.74779603572586,test,mae
+30,xgboost,XGBoost,275.77810334840984,test,mae
+31,xgboost,XGBoost,269.9991105510671,test,mae
+32,xgboost,XGBoost,276.15569062866916,test,mae
+33,rbf,RBF,286.784698678124,test,mae
+34,xgboost,XGBoost,277.39395683895265,test,mae
+35,xgboost,XGBoost,272.4952772963746,test,mae
+36,xgboost,XGBoost,273.57970599476306,test,mae
+37,xgboost,XGBoost,273.84071802310217,test,mae
+38,xgboost,XGBoost,282.1066757438981,test,mae
+39,xgboost,XGBoost,280.71583950773197,test,mae
+40,xgboost,XGBoost,284.5741897468077,test,mae
+41,xgboost,XGBoost,281.942458403649,test,mae
+42,xgboost,XGBoost,274.59924323160914,test,mae
+43,xgboost,XGBoost,287.2951324327857,test,mae
+44,xgboost,XGBoost,273.7246013980479,test,mae
+45,xgboost,XGBoost,282.32747127354196,test,mae
+46,xgboost,XGBoost,272.2845240924614,test,mae
+47,xgboost,XGBoost,279.34107821569006,test,mae
+48,xgboost,XGBoost,273.88719901449105,test,mae
+49,xgboost,XGBoost,277.85038695373265,test,mae
+50,xgboost,XGBoost,280.76271926078914,test,mae
+51,xgboost,XGBoost,282.0805578887778,test,mae
+52,xgboost,XGBoost,281.2079958018357,test,mae
+53,xgboost,XGBoost,284.29638931341634,test,mae
+54,xgboost,XGBoost,280.28553902992644,test,mae
+55,xgboost,XGBoost,287.68637239429313,test,mae
+56,xgboost,XGBoost,285.89082439135626,test,mae
+57,xgboost,XGBoost,280.0649265500675,test,mae
+58,xgboost,XGBoost,283.9602744704026,test,mae
+59,xgboost,XGBoost,278.9262734599189,test,mae
+60,xgboost,XGBoost,280.0129676118565,test,mae
+61,xgboost,XGBoost,278.0503267685084,test,mae
+62,xgboost,XGBoost,283.9341732090426,test,mae
+63,xgboost,XGBoost,291.902392993057,test,mae
+64,xgboost,XGBoost,296.12123576845323,test,mae
+65,xgboost,XGBoost,281.2777760377795,test,mae
+66,xgboost,XGBoost,281.6502340803844,test,mae
+67,xgboost,XGBoost,280.82552727801163,test,mae
+68,xgboost,XGBoost,280.15937934057456,test,mae
+69,xgboost,XGBoost,279.18380049791443,test,mae
+70,xgboost,XGBoost,275.68175627688004,test,mae
+71,xgboost,XGBoost,270.18204363576183,test,mae
+72,xgboost,XGBoost,276.2465458341226,test,mae
+73,xgboost,XGBoost,281.909451107375,test,mae
+74,xgboost,XGBoost,283.2028284959531,test,mae
+75,xgboost,XGBoost,289.14294951540427,test,mae
+76,xgboost,XGBoost,280.34582217416545,test,mae
+77,xgboost,XGBoost,292.5108386757276,test,mae
+78,xgboost,XGBoost,288.94279658830766,test,mae
+79,xgboost,XGBoost,283.0874107041841,test,mae
+80,xgboost,XGBoost,287.6692719714871,test,mae
+81,xgboost,XGBoost,286.7306732496456,test,mae
+82,xgboost,XGBoost,280.47111745521573,test,mae
+83,xgboost,XGBoost,284.73942307181983,test,mae
+84,xgboost,XGBoost,282.99572787063113,test,mae
+85,xgboost,XGBoost,281.8383248310106,test,mae
+86,xgboost,XGBoost,280.4418280233366,test,mae
+87,xgboost,XGBoost,289.22749671671124,test,mae
+88,xgboost,XGBoost,283.8036417334302,test,mae
+89,xgboost,XGBoost,284.2453527127983,test,mae
+90,xgboost,XGBoost,278.4809479963537,test,mae
+91,xgboost,XGBoost,280.48269432504213,test,mae
+92,xgboost,XGBoost,279.7817995939589,test,mae
+93,xgboost,XGBoost,278.0055496678208,test,mae
+94,xgboost,XGBoost,279.93623636626205,test,mae
+95,xgboost,XGBoost,280.2736702625314,test,mae
+96,xgboost,XGBoost,281.4040521406478,test,mae
+97,xgboost,XGBoost,280.2954822299598,test,mae
+98,xgboost,XGBoost,280.65371010700005,test,mae
+99,xgboost,XGBoost,280.45201038367185,test,mae
+100,xgboost,XGBoost,282.29578594262097,test,mae
+101,xgboost,XGBoost,280.1713071071042,test,mae
+102,xgboost,XGBoost,276.96984629036797,test,mae
+103,xgboost,XGBoost,278.55680177622827,test,mae
+104,xgboost,XGBoost,280.02217728574954,test,mae
+105,xgboost,XGBoost,276.1801469853785,test,mae
+106,xgboost,XGBoost,277.55448514861996,test,mae
+107,xgboost,XGBoost,278.6219388794365,test,mae
+108,xgboost,XGBoost,279.58712191017725,test,mae
+109,xgboost,XGBoost,283.34472959326547,test,mae
+110,xgboost,XGBoost,284.58281648420297,test,mae
+111,xgboost,XGBoost,280.3751180720903,test,mae
+112,xgboost,XGBoost,283.2400893346083,test,mae
+113,xgboost,XGBoost,284.2697162808267,test,mae
+114,xgboost,XGBoost,281.1600670800195,test,mae
+115,xgboost,XGBoost,283.24429126301106,test,mae
+116,xgboost,XGBoost,283.431904164497,test,mae
+117,xgboost,XGBoost,277.8656838359032,test,mae
+118,xgboost,XGBoost,279.16196394926476,test,mae
+119,xgboost,XGBoost,278.2946714244477,test,mae
+120,xgboost,XGBoost,283.13567622931123,test,mae
+121,xgboost,XGBoost,281.95113768956924,test,mae
+122,xgboost,XGBoost,281.8223449132951,test,mae
+123,xgboost,XGBoost,282.0236561441014,test,mae
+124,xgboost,XGBoost,278.0611826600503,test,mae
+125,xgboost,XGBoost,277.9514058908777,test,mae
+126,xgboost,XGBoost,275.7486356962353,test,mae
+127,xgboost,XGBoost,274.96883471752597,test,mae
+128,xgboost,XGBoost,273.5087390110691,test,mae
+129,xgboost,XGBoost,271.0366826362317,test,mae
+130,xgboost,XGBoost,269.57883855480816,test,mae
+131,xgboost,XGBoost,280.0517388234959,test,mae
+132,xgboost,XGBoost,286.8372945513508,test,mae
+133,xgboost,XGBoost,282.1246961358253,test,mae
+134,xgboost,XGBoost,282.9042366576266,test,mae
+135,xgboost,XGBoost,277.10528923865076,test,mae
+136,xgboost,XGBoost,279.7708798727481,test,mae
+137,xgboost,XGBoost,277.4742274385645,test,mae
+138,xgboost,XGBoost,280.96804521888686,test,mae
+139,xgboost,XGBoost,280.54958107758864,test,mae
+140,xgboost,XGBoost,279.3145106254516,test,mae
+141,xgboost,XGBoost,280.0723899084193,test,mae
+142,xgboost,XGBoost,271.7841512785973,test,mae
+143,xgboost,XGBoost,272.9074701341532,test,mae
+144,xgboost,XGBoost,276.82793668547407,test,mae
+145,xgboost,XGBoost,278.8081079365135,test,mae
+146,xgboost,XGBoost,278.4566800072695,test,mae
+147,xgboost,XGBoost,270.99789055632255,test,mae
+148,xgboost,XGBoost,277.553681607075,test,mae
+149,xgboost,XGBoost,275.9839212993193,test,mae
+150,xgboost,XGBoost,274.1005845837418,test,mae
+151,xgboost,XGBoost,276.18210943325147,test,mae
+152,xgboost,XGBoost,278.4382476098128,test,mae
+153,xgboost,XGBoost,276.36330083533176,test,mae
+154,xgboost,XGBoost,272.55585752927215,test,mae
+155,xgboost,XGBoost,274.06178812474064,test,mae
+156,xgboost,XGBoost,277.4768734243516,test,mae
+157,rbf,RBF,274.90177705256576,test,mae
+158,xgboost,XGBoost,270.75919432308797,test,mae
+159,xgboost,XGBoost,270.8677214805526,test,mae
+160,xgboost,XGBoost,272.4301506559238,test,mae
+161,xgboost,XGBoost,276.08462150965147,test,mae
+162,xgboost,XGBoost,276.0446970660229,test,mae
+163,xgboost,XGBoost,273.9516033268776,test,mae
+164,xgboost,XGBoost,270.75634506719047,test,mae
+165,rbf,RBF,273.8266545956897,test,mae
+166,xgboost,XGBoost,273.8936772188418,test,mae
+167,xgboost,XGBoost,271.9078680332875,test,mae
+168,xgboost,XGBoost,270.00412624527075,test,mae
+1,xgboost,XGBoost,446.1606468682399,test,rmse
+2,xgboost,XGBoost,482.7622781406305,test,rmse
+3,xgboost,XGBoost,490.73838918086506,test,rmse
+4,xgboost,XGBoost,497.64214440695866,test,rmse
+5,xgboost,XGBoost,509.20942167855685,test,rmse
+6,xgboost,XGBoost,508.2820758318761,test,rmse
+7,xgboost,XGBoost,513.5631476973805,test,rmse
+8,xgboost,XGBoost,506.407985541954,test,rmse
+9,xgboost,XGBoost,499.46885241604116,test,rmse
+10,xgboost,XGBoost,510.22663628194266,test,rmse
+11,xgboost,XGBoost,502.5720318818681,test,rmse
+12,xgboost,XGBoost,505.85704237161445,test,rmse
+13,xgboost,XGBoost,510.5424196007144,test,rmse
+14,xgboost,XGBoost,516.2559272056061,test,rmse
+15,xgboost,XGBoost,505.5467167784477,test,rmse
+16,xgboost,XGBoost,502.5741704057616,test,rmse
+17,xgboost,XGBoost,514.6737074343825,test,rmse
+18,xgboost,XGBoost,513.5149182775358,test,rmse
+19,xgboost,XGBoost,523.6591243976965,test,rmse
+20,xgboost,XGBoost,525.720201533195,test,rmse
+21,xgboost,XGBoost,518.7695297489907,test,rmse
+22,xgboost,XGBoost,514.2738823912075,test,rmse
+23,xgboost,XGBoost,515.7758562429473,test,rmse
+24,xgboost,XGBoost,535.0907802896025,test,rmse
+25,xgboost,XGBoost,569.1174732562724,test,rmse
+26,xgboost,XGBoost,576.8742426790558,test,rmse
+27,xgboost,XGBoost,582.5848055589246,test,rmse
+28,xgboost,XGBoost,596.749387208454,test,rmse
+29,xgboost,XGBoost,614.4026204418442,test,rmse
+30,xgboost,XGBoost,593.2336022197271,test,rmse
+31,xgboost,XGBoost,585.0811989773546,test,rmse
+32,xgboost,XGBoost,592.4025516650114,test,rmse
+33,xgboost,XGBoost,621.1314252127751,test,rmse
+34,xgboost,XGBoost,599.7944669564417,test,rmse
+35,xgboost,XGBoost,581.4396535354362,test,rmse
+36,xgboost,XGBoost,585.2577792803601,test,rmse
+37,xgboost,XGBoost,586.7485777365115,test,rmse
+38,xgboost,XGBoost,602.6832375564742,test,rmse
+39,xgboost,XGBoost,605.8198600814778,test,rmse
+40,xgboost,XGBoost,604.8708587426887,test,rmse
+41,xgboost,XGBoost,604.4928643506984,test,rmse
+42,xgboost,XGBoost,593.2371818565986,test,rmse
+43,xgboost,XGBoost,616.7007040006689,test,rmse
+44,xgboost,XGBoost,590.2197994697747,test,rmse
+45,xgboost,XGBoost,607.1105508800583,test,rmse
+46,xgboost,XGBoost,581.9708210655671,test,rmse
+47,xgboost,XGBoost,592.5346725146533,test,rmse
+48,xgboost,XGBoost,582.0032100787741,test,rmse
+49,xgboost,XGBoost,593.5139843261588,test,rmse
+50,xgboost,XGBoost,603.7817876915186,test,rmse
+51,xgboost,XGBoost,604.698152419372,test,rmse
+52,xgboost,XGBoost,600.7381129930437,test,rmse
+53,xgboost,XGBoost,606.7893789549576,test,rmse
+54,xgboost,XGBoost,598.4708457598397,test,rmse
+55,xgboost,XGBoost,611.0116437802183,test,rmse
+56,xgboost,XGBoost,607.4727697091664,test,rmse
+57,xgboost,XGBoost,597.4262710429774,test,rmse
+58,xgboost,XGBoost,604.9664703484027,test,rmse
+59,xgboost,XGBoost,594.9885621438865,test,rmse
+60,xgboost,XGBoost,593.6369199804199,test,rmse
+61,xgboost,XGBoost,595.6759010683746,test,rmse
+62,xgboost,XGBoost,608.7036620487959,test,rmse
+63,xgboost,XGBoost,623.81036911812,test,rmse
+64,xgboost,XGBoost,630.1919815725438,test,rmse
+65,xgboost,XGBoost,604.8993684408683,test,rmse
+66,xgboost,XGBoost,601.8437280338562,test,rmse
+67,xgboost,XGBoost,600.2917832973527,test,rmse
+68,xgboost,XGBoost,600.8581005640661,test,rmse
+69,xgboost,XGBoost,600.7716261179821,test,rmse
+70,xgboost,XGBoost,589.2369135393888,test,rmse
+71,xgboost,XGBoost,575.1356431464029,test,rmse
+72,xgboost,XGBoost,584.5064850615075,test,rmse
+73,xgboost,XGBoost,597.7563829115742,test,rmse
+74,xgboost,XGBoost,601.3039712023274,test,rmse
+75,xgboost,XGBoost,612.4236683502023,test,rmse
+76,xgboost,XGBoost,594.6298222853686,test,rmse
+77,xgboost,XGBoost,619.6096745374067,test,rmse
+78,xgboost,XGBoost,612.7859142577896,test,rmse
+79,xgboost,XGBoost,600.0613943635482,test,rmse
+80,xgboost,XGBoost,604.2173691257527,test,rmse
+81,xgboost,XGBoost,599.1236588790917,test,rmse
+82,xgboost,XGBoost,588.5363428544227,test,rmse
+83,xgboost,XGBoost,595.9389921558186,test,rmse
+84,xgboost,XGBoost,585.024787737648,test,rmse
+85,xgboost,XGBoost,591.4422086992404,test,rmse
+86,xgboost,XGBoost,587.9095722153319,test,rmse
+87,xgboost,XGBoost,607.7874921213485,test,rmse
+88,xgboost,XGBoost,597.8976811149954,test,rmse
+89,xgboost,XGBoost,597.1175927453529,test,rmse
+90,xgboost,XGBoost,575.3307142248041,test,rmse
+91,xgboost,XGBoost,590.448004321198,test,rmse
+92,xgboost,XGBoost,587.938238098572,test,rmse
+93,xgboost,XGBoost,575.1174853436198,test,rmse
+94,xgboost,XGBoost,574.7737507320951,test,rmse
+95,xgboost,XGBoost,567.3101429366376,test,rmse
+96,xgboost,XGBoost,578.1464881303249,test,rmse
+97,xgboost,XGBoost,586.4240001181116,test,rmse
+98,xgboost,XGBoost,590.2865855651187,test,rmse
+99,xgboost,XGBoost,597.6173072706623,test,rmse
+100,xgboost,XGBoost,602.726250940289,test,rmse
+101,xgboost,XGBoost,596.0627317495749,test,rmse
+102,xgboost,XGBoost,586.0468758039854,test,rmse
+103,xgboost,XGBoost,593.4297643223231,test,rmse
+104,xgboost,XGBoost,595.4199172007696,test,rmse
+105,xgboost,XGBoost,579.3246097906712,test,rmse
+106,xgboost,XGBoost,586.0650268535019,test,rmse
+107,xgboost,XGBoost,584.0872598687943,test,rmse
+108,xgboost,XGBoost,584.8500461351811,test,rmse
+109,xgboost,XGBoost,597.9566099060099,test,rmse
+110,xgboost,XGBoost,606.4579178201161,test,rmse
+111,xgboost,XGBoost,592.6011086499001,test,rmse
+112,xgboost,XGBoost,600.7768599605545,test,rmse
+113,xgboost,XGBoost,600.2346176567792,test,rmse
+114,xgboost,XGBoost,592.3292716418872,test,rmse
+115,xgboost,XGBoost,595.2773251882826,test,rmse
+116,xgboost,XGBoost,598.5125583418942,test,rmse
+117,xgboost,XGBoost,590.8843158008762,test,rmse
+118,xgboost,XGBoost,578.4857364165545,test,rmse
+119,xgboost,XGBoost,575.0566002524039,test,rmse
+120,xgboost,XGBoost,584.8083082511246,test,rmse
+121,xgboost,XGBoost,588.8680479925879,test,rmse
+122,xgboost,XGBoost,590.9092381738963,test,rmse
+123,xgboost,XGBoost,596.2454641567806,test,rmse
+124,xgboost,XGBoost,592.471283202627,test,rmse
+125,xgboost,XGBoost,592.1936427530874,test,rmse
+126,xgboost,XGBoost,586.2008273315772,test,rmse
+127,xgboost,XGBoost,590.4631311473362,test,rmse
+128,xgboost,XGBoost,576.0836728651752,test,rmse
+129,xgboost,XGBoost,578.7059021765314,test,rmse
+130,xgboost,XGBoost,571.0445990772265,test,rmse
+131,xgboost,XGBoost,591.426093583585,test,rmse
+132,xgboost,XGBoost,612.2574782468218,test,rmse
+133,xgboost,XGBoost,592.654387757835,test,rmse
+134,xgboost,XGBoost,595.2724597383387,test,rmse
+135,xgboost,XGBoost,586.198552800713,test,rmse
+136,xgboost,XGBoost,591.7310539623356,test,rmse
+137,xgboost,XGBoost,587.1654768643654,test,rmse
+138,xgboost,XGBoost,594.3161654249712,test,rmse
+139,xgboost,XGBoost,590.0652537702799,test,rmse
+140,xgboost,XGBoost,589.2427406513684,test,rmse
+141,xgboost,XGBoost,588.8089013667798,test,rmse
+142,xgboost,XGBoost,576.0763373562191,test,rmse
+143,xgboost,XGBoost,574.1466384893184,test,rmse
+144,xgboost,XGBoost,577.1973874547372,test,rmse
+145,xgboost,XGBoost,586.5544923471587,test,rmse
+146,xgboost,XGBoost,591.54232133433,test,rmse
+147,xgboost,XGBoost,577.313022073412,test,rmse
+148,xgboost,XGBoost,589.7641915763422,test,rmse
+149,xgboost,XGBoost,585.7339767297441,test,rmse
+150,xgboost,XGBoost,580.4177942179339,test,rmse
+151,xgboost,XGBoost,583.6151781623672,test,rmse
+152,xgboost,XGBoost,586.1509831559093,test,rmse
+153,xgboost,XGBoost,585.6144922653696,test,rmse
+154,xgboost,XGBoost,578.7073120382496,test,rmse
+155,xgboost,XGBoost,578.0548696036336,test,rmse
+156,xgboost,XGBoost,591.4017995800011,test,rmse
+157,xgboost,XGBoost,591.9443792866942,test,rmse
+158,xgboost,XGBoost,576.8840449985247,test,rmse
+159,xgboost,XGBoost,576.846175928821,test,rmse
+160,xgboost,XGBoost,579.6435560775163,test,rmse
+161,xgboost,XGBoost,587.2052880245711,test,rmse
+162,xgboost,XGBoost,585.3680260384666,test,rmse
+163,xgboost,XGBoost,581.6586015381254,test,rmse
+164,xgboost,XGBoost,578.4522280952076,test,rmse
+165,xgboost,XGBoost,578.3618682839949,test,rmse
+166,xgboost,XGBoost,577.568333856166,test,rmse
+167,xgboost,XGBoost,576.0398659831144,test,rmse
+168,xgboost,XGBoost,566.6819087015467,test,rmse
+1,naive_persistence,Persistencia,10.681498676787834,test,smape_pct
+2,xgboost,XGBoost,16.287003906651876,test,smape_pct
+3,xgboost,XGBoost,17.1388805453597,test,smape_pct
+4,xgboost,XGBoost,17.41838995653204,test,smape_pct
+5,xgboost,XGBoost,18.469610391750948,test,smape_pct
+6,xgboost,XGBoost,18.98798103338806,test,smape_pct
+7,xgboost,XGBoost,19.500027657767557,test,smape_pct
+8,xgboost,XGBoost,19.94758926424905,test,smape_pct
+9,xgboost,XGBoost,19.814769115753467,test,smape_pct
+10,xgboost,XGBoost,20.495029098925674,test,smape_pct
+11,xgboost,XGBoost,20.281029823104994,test,smape_pct
+12,xgboost,XGBoost,20.704272098173035,test,smape_pct
+13,xgboost,XGBoost,21.086635437226445,test,smape_pct
+14,xgboost,XGBoost,20.75084543285556,test,smape_pct
+15,xgboost,XGBoost,20.55488190628694,test,smape_pct
+16,xgboost,XGBoost,20.687899784334636,test,smape_pct
+17,xgboost,XGBoost,20.865532059334818,test,smape_pct
+18,xgboost,XGBoost,20.686738119712818,test,smape_pct
+19,xgboost,XGBoost,20.943475897966035,test,smape_pct
+20,xgboost,XGBoost,20.95122731326477,test,smape_pct
+21,xgboost,XGBoost,21.367134691566058,test,smape_pct
+22,xgboost,XGBoost,21.31397589036724,test,smape_pct
+23,xgboost,XGBoost,21.81964186301455,test,smape_pct
+24,xgboost,XGBoost,22.080493949120378,test,smape_pct
+25,xgboost,XGBoost,23.924748005672413,test,smape_pct
+26,xgboost,XGBoost,24.428595963786947,test,smape_pct
+27,xgboost,XGBoost,24.91734518755583,test,smape_pct
+28,xgboost,XGBoost,26.23585762342585,test,smape_pct
+29,xgboost,XGBoost,27.40006897891075,test,smape_pct
+30,xgboost,XGBoost,25.975349173545325,test,smape_pct
+31,xgboost,XGBoost,25.317793827657688,test,smape_pct
+32,xgboost,XGBoost,26.032841017573546,test,smape_pct
+33,rbf,RBF,27.17904860655889,test,smape_pct
+34,xgboost,XGBoost,26.19747955930885,test,smape_pct
+35,xgboost,XGBoost,25.652115585977647,test,smape_pct
+36,xgboost,XGBoost,25.679795103740304,test,smape_pct
+37,xgboost,XGBoost,25.6928709507972,test,smape_pct
+38,xgboost,XGBoost,26.746454280175357,test,smape_pct
+39,xgboost,XGBoost,26.627235322102774,test,smape_pct
+40,xgboost,XGBoost,27.138296811179995,test,smape_pct
+41,xgboost,XGBoost,26.783529694548964,test,smape_pct
+42,xgboost,XGBoost,25.969548922867574,test,smape_pct
+43,xgboost,XGBoost,27.380349253389014,test,smape_pct
+44,xgboost,XGBoost,25.65070621435701,test,smape_pct
+45,xgboost,XGBoost,26.784506073120813,test,smape_pct
+46,xgboost,XGBoost,25.669073283675065,test,smape_pct
+47,xgboost,XGBoost,26.564461540349267,test,smape_pct
+48,xgboost,XGBoost,25.934198548909748,test,smape_pct
+49,xgboost,XGBoost,26.240865369054013,test,smape_pct
+50,xgboost,XGBoost,26.597993382894316,test,smape_pct
+51,xgboost,XGBoost,26.74875711167644,test,smape_pct
+52,xgboost,XGBoost,26.73910392247962,test,smape_pct
+53,xgboost,XGBoost,27.066995804014834,test,smape_pct
+54,xgboost,XGBoost,26.57848936487803,test,smape_pct
+55,xgboost,XGBoost,27.484322414855175,test,smape_pct
+56,xgboost,XGBoost,27.28522466507749,test,smape_pct
+57,xgboost,XGBoost,26.626794206039435,test,smape_pct
+58,xgboost,XGBoost,27.073582223092,test,smape_pct
+59,xgboost,XGBoost,26.517555492839293,test,smape_pct
+60,xgboost,XGBoost,26.65767848902964,test,smape_pct
+61,xgboost,XGBoost,26.278878903599477,test,smape_pct
+62,xgboost,XGBoost,27.023177476862582,test,smape_pct
+63,xgboost,XGBoost,27.8995160078372,test,smape_pct
+64,rbf,RBF,28.3170184260832,test,smape_pct
+65,xgboost,XGBoost,26.741638447702755,test,smape_pct
+66,xgboost,XGBoost,26.821713904501525,test,smape_pct
+67,xgboost,XGBoost,26.69313815528819,test,smape_pct
+68,xgboost,XGBoost,26.621597831150456,test,smape_pct
+69,xgboost,XGBoost,26.460650686947353,test,smape_pct
+70,xgboost,XGBoost,26.099283960755514,test,smape_pct
+71,xgboost,XGBoost,25.49024195830279,test,smape_pct
+72,xgboost,XGBoost,26.2856031738501,test,smape_pct
+73,xgboost,XGBoost,26.88873679491122,test,smape_pct
+74,xgboost,XGBoost,27.04186096162213,test,smape_pct
+75,xgboost,XGBoost,27.74099331774114,test,smape_pct
+76,xgboost,XGBoost,26.724525121156567,test,smape_pct
+77,xgboost,XGBoost,28.066992599285154,test,smape_pct
+78,xgboost,XGBoost,27.701554798415305,test,smape_pct
+79,xgboost,XGBoost,27.08184031703515,test,smape_pct
+80,xgboost,XGBoost,27.632056572806064,test,smape_pct
+81,xgboost,XGBoost,27.550155366905628,test,smape_pct
+82,xgboost,XGBoost,26.8745633386604,test,smape_pct
+83,xgboost,XGBoost,27.340095625091642,test,smape_pct
+84,xgboost,XGBoost,27.094152182696682,test,smape_pct
+85,xgboost,XGBoost,27.004924544475205,test,smape_pct
+86,xgboost,XGBoost,26.877062131323864,test,smape_pct
+87,xgboost,XGBoost,27.8500455870828,test,smape_pct
+88,xgboost,XGBoost,27.213102140676018,test,smape_pct
+89,xgboost,XGBoost,27.265494561319414,test,smape_pct
+90,xgboost,XGBoost,26.638130246971684,test,smape_pct
+91,xgboost,XGBoost,26.883416454701077,test,smape_pct
+92,xgboost,XGBoost,26.76939418723343,test,smape_pct
+93,xgboost,XGBoost,26.61772713117473,test,smape_pct
+94,xgboost,XGBoost,26.914786492604527,test,smape_pct
+95,xgboost,XGBoost,26.864771112441833,test,smape_pct
+96,xgboost,XGBoost,26.791610110128797,test,smape_pct
+97,xgboost,XGBoost,26.79066144551441,test,smape_pct
+98,xgboost,XGBoost,26.715009409952273,test,smape_pct
+99,xgboost,XGBoost,26.67718753785265,test,smape_pct
+100,xgboost,XGBoost,26.86304996567279,test,smape_pct
+101,xgboost,XGBoost,26.753203553117157,test,smape_pct
+102,xgboost,XGBoost,26.371192468823157,test,smape_pct
+103,xgboost,XGBoost,26.55511451183713,test,smape_pct
+104,xgboost,XGBoost,26.77667913635046,test,smape_pct
+105,xgboost,XGBoost,26.405248183325234,test,smape_pct
+106,xgboost,XGBoost,26.56778972193337,test,smape_pct
+107,xgboost,XGBoost,26.781731860291185,test,smape_pct
+108,xgboost,XGBoost,26.92758503133546,test,smape_pct
+109,xgboost,XGBoost,27.25971291729346,test,smape_pct
+110,xgboost,XGBoost,27.31768230656882,test,smape_pct
+111,xgboost,XGBoost,26.979173546360872,test,smape_pct
+112,xgboost,XGBoost,27.210728599600124,test,smape_pct
+113,xgboost,XGBoost,27.36214239877202,test,smape_pct
+114,xgboost,XGBoost,27.03910008300169,test,smape_pct
+115,xgboost,XGBoost,27.178248511634937,test,smape_pct
+116,xgboost,XGBoost,27.199733485641623,test,smape_pct
+117,xgboost,XGBoost,26.560851505239985,test,smape_pct
+118,xgboost,XGBoost,26.653479283899614,test,smape_pct
+119,xgboost,XGBoost,26.711559965915992,test,smape_pct
+120,xgboost,XGBoost,27.242484304354722,test,smape_pct
+121,xgboost,XGBoost,26.97016385643957,test,smape_pct
+122,xgboost,XGBoost,27.04915562226522,test,smape_pct
+123,xgboost,XGBoost,27.03802424117569,test,smape_pct
+124,xgboost,XGBoost,26.572886273433188,test,smape_pct
+125,xgboost,XGBoost,26.558714290156505,test,smape_pct
+126,xgboost,XGBoost,26.306952893345095,test,smape_pct
+127,xgboost,XGBoost,26.114313274402637,test,smape_pct
+128,xgboost,XGBoost,26.12827814977958,test,smape_pct
+129,xgboost,XGBoost,25.66029918074399,test,smape_pct
+130,xgboost,XGBoost,25.49249504271713,test,smape_pct
+131,xgboost,XGBoost,26.870492272180478,test,smape_pct
+132,xgboost,XGBoost,27.57127701791125,test,smape_pct
+133,xgboost,XGBoost,27.138427060166354,test,smape_pct
+134,xgboost,XGBoost,27.203981498150892,test,smape_pct
+135,xgboost,XGBoost,26.51464130535956,test,smape_pct
+136,xgboost,XGBoost,26.862779902380602,test,smape_pct
+137,xgboost,XGBoost,26.590345139803688,test,smape_pct
+138,xgboost,XGBoost,26.971080199456928,test,smape_pct
+139,xgboost,XGBoost,26.976654215644388,test,smape_pct
+140,xgboost,XGBoost,26.79391657574711,test,smape_pct
+141,xgboost,XGBoost,26.929023834869607,test,smape_pct
+142,xgboost,XGBoost,25.779442419872883,test,smape_pct
+143,xgboost,XGBoost,25.94358048230713,test,smape_pct
+144,xgboost,XGBoost,26.58913217905465,test,smape_pct
+145,xgboost,XGBoost,26.74047530291864,test,smape_pct
+146,xgboost,XGBoost,26.657029764074068,test,smape_pct
+147,xgboost,XGBoost,25.75746405368718,test,smape_pct
+148,xgboost,XGBoost,26.524854268434442,test,smape_pct
+149,xgboost,XGBoost,26.428885709571947,test,smape_pct
+150,xgboost,XGBoost,26.29529975574021,test,smape_pct
+151,xgboost,XGBoost,26.466833016122386,test,smape_pct
+152,xgboost,XGBoost,26.83205325180199,test,smape_pct
+153,xgboost,XGBoost,26.54675059816533,test,smape_pct
+154,xgboost,XGBoost,26.08797770037705,test,smape_pct
+155,xgboost,XGBoost,26.264771625018714,test,smape_pct
+156,rbf,RBF,26.322026189739823,test,smape_pct
+157,rbf,RBF,25.933414995739774,test,smape_pct
+158,xgboost,XGBoost,25.82837029448027,test,smape_pct
+159,rbf,RBF,25.651616652783964,test,smape_pct
+160,xgboost,XGBoost,25.872593012951583,test,smape_pct
+161,xgboost,XGBoost,26.40350805873632,test,smape_pct
+162,xgboost,XGBoost,26.403284461227496,test,smape_pct
+163,xgboost,XGBoost,26.105856320898656,test,smape_pct
+164,xgboost,XGBoost,25.79031731161116,test,smape_pct
+165,rbf,RBF,25.51492266276782,test,smape_pct
+166,rbf,RBF,26.126531509616793,test,smape_pct
+167,xgboost,XGBoost,25.87763522015289,test,smape_pct
+168,xgboost,XGBoost,25.679545180702725,test,smape_pct

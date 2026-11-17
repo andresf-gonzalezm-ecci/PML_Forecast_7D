@@ -1,0 +1,141 @@
+PML FORECAST 7D — ANÁLISIS POR BLOQUES DE 24 HORAS
+======================================================================================
+Las métricas se calculan sobre pares horizonte-observación dentro de cada bloque.
+R² se calcula de nuevo sobre todos los pares del bloque; no es promedio de R² horario.
+Los horizontes pueden compartir observaciones reales; interpretar los pares como
+pronósticos evaluados, no como observaciones independientes.
+
+RESULTADOS TEST POR BLOQUE
+block    model_name  n_forecast_pairs       mae      rmse  smape_pct       r2
+Día 1 Naive semanal             53508 349.37662 711.40230   29.82162 -0.13526
+Día 1  Persistencia             53508 410.38026 857.59773   32.94316 -0.64981
+Día 1       XGBoost             53508 226.55455 507.36600   19.84215  0.42256
+Día 1           RBF             53508 270.51311 583.08040   25.01145  0.23735
+Día 2 Naive semanal             54084 346.37473 707.68970   29.61456 -0.13230
+Día 2  Persistencia             54084 475.98141 913.10447   40.04797 -0.88502
+Día 2       XGBoost             54084 276.49442 594.58567   26.09689  0.20071
+Día 2           RBF             54084 298.64863 625.70349   28.37329  0.11486
+Día 3 Naive semanal             54660 344.30664 704.26841   29.49736 -0.13228
+Día 3  Persistencia             54660 506.48216 939.80019   43.23298 -1.01627
+Día 3       XGBoost             54660 281.58957 601.48580   26.76791  0.17410
+Día 3           RBF             54660 297.17532 629.26392   28.41716  0.09605
+Día 4 Naive semanal             55236 342.28817 701.19346   29.35275 -0.13385
+Día 4  Persistencia             55236 513.37598 939.53238   44.36403 -1.03565
+Día 4       XGBoost             55236 283.31360 593.55540   27.14228  0.18754
+Día 4           RBF             55236 298.82963 628.08509   28.77365  0.09026
+Día 5 Naive semanal             55812 342.24796 699.36864   29.39779 -0.13883
+Día 5  Persistencia             55812 515.08922 939.15301   44.88477 -1.05362
+Día 5       XGBoost             55812 280.56293 591.53761   26.87118  0.18527
+Día 5           RBF             55812 294.63967 630.05520   28.21809  0.07572
+Día 6 Naive semanal             56388 340.83606 696.33866   29.34548 -0.13962
+Día 6  Persistencia             56388 500.63009 927.66901   43.44002 -1.02258
+Día 6       XGBoost             56388 278.13775 587.96416   26.60933  0.18751
+Día 6           RBF             56388 291.79304 627.39315   27.94298  0.07488
+Día 7 Naive semanal             56964 338.25117 692.98291   29.15251 -0.13863
+Día 7  Persistencia             56964 468.72809 896.70755   39.80666 -0.90650
+Día 7       XGBoost             56964 274.58133 582.16842   26.24648  0.19641
+Día 7           RBF             56964 281.87821 618.77681   26.64577  0.09217
+
+HORIZONTES GANADOS POR BLOQUE — TEST
+split block    metric             model    model_name  horizons_won
+ test Día 1       mae        naive_week Naive semanal             0
+ test Día 1       mae naive_persistence  Persistencia             1
+ test Día 1       mae           xgboost       XGBoost            23
+ test Día 1       mae               rbf           RBF             0
+ test Día 1      rmse        naive_week Naive semanal             0
+ test Día 1      rmse naive_persistence  Persistencia             0
+ test Día 1      rmse           xgboost       XGBoost            24
+ test Día 1      rmse               rbf           RBF             0
+ test Día 1 smape_pct        naive_week Naive semanal             0
+ test Día 1 smape_pct naive_persistence  Persistencia             1
+ test Día 1 smape_pct           xgboost       XGBoost            23
+ test Día 1 smape_pct               rbf           RBF             0
+ test Día 2       mae        naive_week Naive semanal             0
+ test Día 2       mae naive_persistence  Persistencia             0
+ test Día 2       mae           xgboost       XGBoost            23
+ test Día 2       mae               rbf           RBF             1
+ test Día 2      rmse        naive_week Naive semanal             0
+ test Día 2      rmse naive_persistence  Persistencia             0
+ test Día 2      rmse           xgboost       XGBoost            24
+ test Día 2      rmse               rbf           RBF             0
+ test Día 2 smape_pct        naive_week Naive semanal             0
+ test Día 2 smape_pct naive_persistence  Persistencia             0
+ test Día 2 smape_pct           xgboost       XGBoost            23
+ test Día 2 smape_pct               rbf           RBF             1
+ test Día 3       mae        naive_week Naive semanal             0
+ test Día 3       mae naive_persistence  Persistencia             0
+ test Día 3       mae           xgboost       XGBoost            24
+ test Día 3       mae               rbf           RBF             0
+ test Día 3      rmse        naive_week Naive semanal             0
+ test Día 3      rmse naive_persistence  Persistencia             0
+ test Día 3      rmse           xgboost       XGBoost            24
+ test Día 3      rmse               rbf           RBF             0
+ test Día 3 smape_pct        naive_week Naive semanal             0
+ test Día 3 smape_pct naive_persistence  Persistencia             0
+ test Día 3 smape_pct           xgboost       XGBoost            23
+ test Día 3 smape_pct               rbf           RBF             1
+ test Día 4       mae        naive_week Naive semanal             0
+ test Día 4       mae naive_persistence  Persistencia             0
+ test Día 4       mae           xgboost       XGBoost            24
+ test Día 4       mae               rbf           RBF             0
+ test Día 4      rmse        naive_week Naive semanal             0
+ test Día 4      rmse naive_persistence  Persistencia             0
+ test Día 4      rmse           xgboost       XGBoost            24
+ test Día 4      rmse               rbf           RBF             0
+ test Día 4 smape_pct        naive_week Naive semanal             0
+ test Día 4 smape_pct naive_persistence  Persistencia             0
+ test Día 4 smape_pct           xgboost       XGBoost            24
+ test Día 4 smape_pct               rbf           RBF             0
+ test Día 5       mae        naive_week Naive semanal             0
+ test Día 5       mae naive_persistence  Persistencia             0
+ test Día 5       mae           xgboost       XGBoost            24
+ test Día 5       mae               rbf           RBF             0
+ test Día 5      rmse        naive_week Naive semanal             0
+ test Día 5      rmse naive_persistence  Persistencia             0
+ test Día 5      rmse           xgboost       XGBoost            24
+ test Día 5      rmse               rbf           RBF             0
+ test Día 5 smape_pct        naive_week Naive semanal             0
+ test Día 5 smape_pct naive_persistence  Persistencia             0
+ test Día 5 smape_pct           xgboost       XGBoost            24
+ test Día 5 smape_pct               rbf           RBF             0
+ test Día 6       mae        naive_week Naive semanal             0
+ test Día 6       mae naive_persistence  Persistencia             0
+ test Día 6       mae           xgboost       XGBoost            24
+ test Día 6       mae               rbf           RBF             0
+ test Día 6      rmse        naive_week Naive semanal             0
+ test Día 6      rmse naive_persistence  Persistencia             0
+ test Día 6      rmse           xgboost       XGBoost            24
+ test Día 6      rmse               rbf           RBF             0
+ test Día 6 smape_pct        naive_week Naive semanal             0
+ test Día 6 smape_pct naive_persistence  Persistencia             0
+ test Día 6 smape_pct           xgboost       XGBoost            24
+ test Día 6 smape_pct               rbf           RBF             0
+ test Día 7       mae        naive_week Naive semanal             0
+ test Día 7       mae naive_persistence  Persistencia             0
+ test Día 7       mae           xgboost       XGBoost            22
+ test Día 7       mae               rbf           RBF             2
+ test Día 7      rmse        naive_week Naive semanal             0
+ test Día 7      rmse naive_persistence  Persistencia             0
+ test Día 7      rmse           xgboost       XGBoost            24
+ test Día 7      rmse               rbf           RBF             0
+ test Día 7 smape_pct        naive_week Naive semanal             0
+ test Día 7 smape_pct naive_persistence  Persistencia             0
+ test Día 7 smape_pct           xgboost       XGBoost            19
+ test Día 7 smape_pct               rbf           RBF             5
+
+DISTRIBUCIÓN DE VALORES REALES POR BLOQUE
+     split block  horizon_start  horizon_end  n_forecast_pairs  actual_mean  actual_std  actual_min  actual_median  actual_max
+validation Día 1              1           24             57192    606.23004   395.60373   149.21001      520.28003 4,841.93018
+validation Día 2             25           48             57192    606.23004   395.60373   149.21001      520.28003 4,841.93018
+validation Día 3             49           72             57192    606.23004   395.60373   149.21001      520.28003 4,841.93018
+validation Día 4             73           96             57192    606.23004   395.60373   149.21001      520.28003 4,841.93018
+validation Día 5             97          120             57192    606.23004   395.60373   149.21001      520.28003 4,841.93018
+validation Día 6            121          144             57192    606.23004   395.60373   149.21001      520.28003 4,841.93018
+validation Día 7            145          168             57192    606.23004   395.60373   149.21001      520.28003 4,841.93018
+      test Día 1              1           24             53508    877.05324   667.67755   321.12000      700.16998 6,356.87012
+      test Día 2             25           48             54084    873.44800   665.06318   321.12000      697.87000 6,356.87012
+      test Día 3             49           72             54660    871.55396   661.85258   321.12000      698.78998 6,356.87012
+      test Día 4             73           96             55236    870.42015   658.50667   321.12000      700.35999 6,356.87012
+      test Día 5             97          120             55812    868.80330   655.35378   321.12000      700.16998 6,356.87012
+      test Día 6            121          144             56388    866.91095   652.28973   321.12000      699.58002 6,356.87012
+      test Día 7            145          168             56964    864.72212   649.42946   321.12000      698.85999 6,356.87012

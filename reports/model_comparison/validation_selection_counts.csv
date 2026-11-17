@@ -1,0 +1,5 @@
+﻿model,horizons_selected,model_name
+naive_week,105,Naive semanal
+naive_persistence,31,Persistencia
+xgboost,32,XGBoost
+rbf,0,RBF

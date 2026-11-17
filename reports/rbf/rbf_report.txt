@@ -1,0 +1,51 @@
+PML FORECAST 7D — RBF
+==============================================================================
+Centros RBF: 128
+Alphas candidatos: [0.01, 0.1, 1.0, 10.0, 100.0]
+Escalador y centros ajustados solo con train.
+Alpha seleccionado con validation RMSE.
+Test reservado para evaluación.
+
+Resumen pooled (los horizontes pueden solaparse):
+
+VALIDATION — RBF
+  N: 400,344
+  MAE: 236.716168
+  RMSE: 397.243303
+  Mediana error absoluto: 172.629439
+  sMAPE: 31.573713%
+
+VALIDATION — Naive semanal
+  N: 400,344
+  MAE: 207.298859
+  RMSE: 502.135947
+  Mediana error absoluto: 78.460022
+  sMAPE: 24.784989%
+
+VALIDATION — Persistencia
+  N: 400,344
+  MAE: 215.818470
+  RMSE: 545.402887
+  Mediana error absoluto: 74.080017
+  sMAPE: 24.999466%
+
+TEST — RBF
+  N: 386,652
+  MAE: 290.523393
+  RMSE: 620.693705
+  Mediana error absoluto: 148.227222
+  sMAPE: 27.631781%
+
+TEST — Naive semanal
+  N: 386,652
+  MAE: 343.313759
+  RMSE: 701.793641
+  Mediana error absoluto: 155.679993
+  sMAPE: 29.450642%
+
+TEST — Persistencia
+  N: 386,652
+  MAE: 484.728056
+  RMSE: 916.868474
+  Mediana error absoluto: 214.310013
+  sMAPE: 41.288897%
